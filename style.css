@@ -1,0 +1,93 @@
+/*Home Page*/
+body{
+    background-color: #EAD7BB;
+    color: #113946;
+    width: 100%;
+    overflow-x: hidden;
+}
+#start
+{
+    background-image: url(https://www.pngall.com/wp-content/uploads/2017/05/World-Map-Free-Download-PNG.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: auto;
+    height: 700px;
+}
+nav{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+a
+{
+    color: #113946;
+    text-decoration: none;
+}
+nav a{
+    margin-inline: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #BCA37F;
+    padding: 10px;
+    border-radius: 10px;
+}
+nav a:hover
+{
+    background-color: white;
+}
+#exp
+{
+    font-size: 20px;
+    text-align: center;
+    background-color: #BCA37F;
+    padding: 40px;
+    margin-left: -8px;
+}
+form input {
+    border-radius: 5px;
+    border-color: white;
+    background-color: white;
+    width: 15%;
+    height: 30px;
+    margin: 10px;
+    border-style: solid;
+}
+form button {
+    height: 30px;
+    width: 8%;
+    background-color: white;
+    color: #BCA37F;
+    font-weight: bold;
+    border-color: white;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+/*Latest Blogs*/
+#btable{
+    margin-top: 50px;
+    background-color: white
+    
+}
+#btable td{
+    text-align: center;
+    padding: 10px;
+}
+
+/*Article*/
+article
+{
+    background-color: #FFF2D8;
+}
+.pcol td
+{
+    background-color: #113946;
+    padding: 10px;
+}
+
+/*About*/
+hr
+{
+    height: 2px;
+    background-color: #113946;
+}
